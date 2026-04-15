@@ -103,4 +103,6 @@ h2 {
   margin: 0 16px auto auto;
   padding: 32px;
   color: #757575;
+  align-items: center;
+  justify-content: center;
 }
